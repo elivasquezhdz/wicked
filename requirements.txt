@@ -1,0 +1,7 @@
+tensorflow-cpu
+tensorflow-hub
+flask
+gunicorn
+Pillow
+Flask-Table
+flask-cors
