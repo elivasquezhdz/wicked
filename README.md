@@ -1,0 +1,2 @@
+# wicked
+Wicked hackathon submission
